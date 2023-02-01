@@ -1,6 +1,9 @@
 /*
-This code initializes the LwIP stack and sets the network parameters. It then creates a TCP socket, binds it to the address and port specified by SERVER_PORT, and starts listening for incoming connections. When a new connection is accepted, the server receives data from the client and processes it.
-Note that this is just a basic example, and the actual implementation will depend on the requirements of your specific project. You should refer to the LwIP documentation for more information on how to use this library.
+This code initializes the LwIP stack and sets the network parameters. 
+It then creates a TCP socket, binds it to the address and port specified by SERVER_PORT, and starts listening for incoming connections. 
+When a new connection is accepted, the server receives data from the client and processes it.
+Note that this is just a basic example, and the actual implementation will depend on the requirements of your specific project.
+You should refer to the LwIP documentation for more information on how to use this library.
 */
 
 #include "lwip/init.h"

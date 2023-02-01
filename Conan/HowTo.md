@@ -8,10 +8,12 @@ Create a Conan file: A Conan file (conanfile.txt) defines the dependencies and s
 
 Add dependencies to your project: You can add dependencies to your project by specifying them in the Conan file. For example:
 
-[requires]
+[requires] 
+
 boost/1.72.0@conan/stable
 
 [options]
+
 boost:shared=True
 
 Install the dependencies: You can install the dependencies for your project using the following command: conan install .. This will download the necessary packages and configure your project to use them.

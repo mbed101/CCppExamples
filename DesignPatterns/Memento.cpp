@@ -1,10 +1,10 @@
-In this example, we have an Originator class that has a state represented by a std::vector<int>. 
+/*In this example, we have an Originator class that has a state represented by a std::vector<int>. 
 The Originator can create a Memento object that contains a snapshot of its current state, and it can restore its state from a Memento object. 
 The Caretaker class is responsible for storing the Memento objects.
 
 In the main function, we create an Originator object and set its initial state.
 We then create a Caretaker object and save the Originator's state in a Memento object. Next, we modify the Originator's state by adding two more integers to its std::vector<int>.
-We then print out the current state of the Originator, which should be 1 2 3 4 5. Finally, we restore the Originator's state from
+We then print out the current state of the Originator, which should be 1 2 3 4 5. Finally, we restore the Originator's state from  */
   
 #include <iostream>
 #include <vector>

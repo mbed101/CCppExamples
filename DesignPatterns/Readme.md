@@ -1,4 +1,4 @@
-Creational patterns:
+# Creational patterns:
 
 Abstract Factory
 Builder
@@ -29,8 +29,6 @@ Template Method
 Visitor
 
 These design patterns can be used to solve various programming problems in a structured and modular way. Each pattern has its own set of characteristics and can be used in different situations. It's worth noting that not every pattern is appropriate for every problem, so it's important to choose the right pattern(s) for your specific situation
-
-
 
 
 ## Other answer

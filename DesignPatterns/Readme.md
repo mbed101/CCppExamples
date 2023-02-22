@@ -1,3 +1,40 @@
+Creational patterns:
+
+Abstract Factory
+Builder
+Factory Method
+Prototype
+Singleton
+Structural patterns:
+
+Adapter
+Bridge
+Composite
+Decorator
+Facade
+Flyweight
+Proxy
+Behavioral patterns:
+
+Chain of Responsibility
+Command
+Interpreter
+Iterator
+Mediator
+Memento
+Observer
+State
+Strategy
+Template Method
+Visitor
+
+These design patterns can be used to solve various programming problems in a structured and modular way. Each pattern has its own set of characteristics and can be used in different situations. It's worth noting that not every pattern is appropriate for every problem, so it's important to choose the right pattern(s) for your specific situation
+
+
+
+
+## Other answer
+
 Singleton: A class with only one instance and provides a global point of access to it.
 
 Factory: A method for creating objects without specifying the exact class of the object that will be created.
